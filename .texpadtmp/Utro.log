@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  26 APR 2020 23:06
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  26 APR 2020 23:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -681,48 +681,48 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial scale = 0.8311561975142762.
+. PT Sans scale = 0.8619993868621276.
 .................................................
-\g__fontspec_family_Arial_int=\count153
-.................................................
-. fontspec info: "set-scale"
-. 
-. Arial scale = 0.8311561975142762.
-.................................................
+\g__fontspec_family_PTSans_int=\count153
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial/B scale = 0.8311561975142762.
+. PT Sans scale = 0.8619993868621276.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial/I scale = 0.8311561975142762.
+. PT Sans/B scale = 0.8619993868621276.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial/BI scale = 0.8311561975142762.
+. PT Sans/I scale = 0.8619993868621276.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. PT Sans/BI scale = 0.8619993868621276.
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Arial(0)' created for font 'Arial' with options
+. Font family 'PTSans(0)' created for font 'PT Sans' with options
 . [Ligatures=TeX,Scale=MatchLowercase].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.:
-. <->s*[0.8311561975142762]"Arial/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.: <->s*[0.8619993868621276]"PT
+. Sans/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->s*[0.8311561975142762]"Arial/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->s*[0.8619993868621276]"PT
+. Sans/B/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'italic' (m/it) with NFSS spec.:
-. <->s*[0.8311561975142762]"Arial/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->s*[0.8619993868621276]"PT
+. Sans/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
-. - 'bold italic' (bx/it) with NFSS spec.:
-. <->s*[0.8311561975142762]"Arial/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->s*[0.8619993868621276]"PT
+. Sans/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 .................................................
@@ -834,47 +834,47 @@ LaTeX Info: Redefining \ttfamily on input line 49.
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial scale = 0.8311535102452133.
+. PT Sans scale = 0.8619965998717984.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial scale = 0.8311535102452133.
+. PT Sans scale = 0.8619965998717984.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial/B scale = 0.8311535102452133.
+. PT Sans/B scale = 0.8619965998717984.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial/I scale = 0.8311535102452133.
+. PT Sans/I scale = 0.8619965998717984.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Arial/BI scale = 0.8311535102452133.
+. PT Sans/BI scale = 0.8619965998717984.
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Arial(1)' created for font 'Arial' with options
+. Font family 'PTSans(1)' created for font 'PT Sans' with options
 . [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.:
-. <->s*[0.8311535102452133]"Arial/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.: <->s*[0.8619965998717984]"PT
+. Sans/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->s*[0.8311535102452133]"Arial/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->s*[0.8619965998717984]"PT
+. Sans/B/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'italic' (m/it) with NFSS spec.:
-. <->s*[0.8311535102452133]"Arial/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->s*[0.8619965998717984]"PT
+. Sans/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
-. - 'bold italic' (bx/it) with NFSS spec.:
-. <->s*[0.8311535102452133]"Arial/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->s*[0.8619965998717984]"PT
+. Sans/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \sffamily on input line 50.
@@ -923,12 +923,12 @@ LaTeX Info: Redefining \nameref on input line 59.
 \@outlinefile=\write3
 \openout3 = `Utro.out'.
 
-LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
-(Font)              scaled to size 9.10121pt on input line 72.
-LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
-(Font)              scaled to size 9.10121pt on input line 72.
-LaTeX Font Info:    Font shape `TU/Arial(0)/bx/n' will be
-(Font)              scaled to size 17.23828pt on input line 72.
+LaTeX Font Info:    Font shape `TU/PTSans(0)/m/n' will be
+(Font)              scaled to size 9.43889pt on input line 72.
+LaTeX Font Info:    Font shape `TU/PTSans(0)/bx/n' will be
+(Font)              scaled to size 9.43889pt on input line 72.
+LaTeX Font Info:    Font shape `TU/PTSans(0)/bx/n' will be
+(Font)              scaled to size 17.87787pt on input line 72.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
 (Font)              scaled to size 12.89113pt on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -950,19 +950,11 @@ LaTeX Font Info:    Font shape `TU/iAWriterDuospace(0)/m/n' will be
 ] (/Users/dahl/Documents/GitHub/Utro/.texpadtmp/Utro.toc
 LaTeX Font Info:    Font shape `TU/Georgia(0)/bx/n' will be
 (Font)              scaled to size 9.74332pt on input line 2.
-
-Underfull \vbox (badness 2626) has occurred while \output is active []
-
  [3
 
 
 
-]
-Underfull \hbox (badness 1112) in paragraph at lines 12--12
- [][] []\TU/Arial(0)/bx/n/10.95 Глава десятая, в которой детские игры Меткоискателей 
- []
-
-)
+])
 \tf@toc=\write4
 \openout4 = `Utro.toc'.
 
@@ -1566,18 +1558,8 @@ Underfull \hbox (badness 1436) in paragraph at lines 1184--1185
 Underfull \vbox (badness 1163) has occurred while \output is active []
 
  [66]
-Overfull \hbox (8.31122pt too wide) in paragraph at lines 1215--1215
-[]\TU/Arial(0)/m/n/10.95 Считаться достойным может лишь тот, [] 
- []
-
-
-Overfull \hbox (6.54253pt too wide) in paragraph at lines 1221--1221
-[]\TU/Arial(0)/m/n/10.95 Жить в униженье, покорно глядеть [] 
- []
-
-
-Overfull \hbox (22.62076pt too wide) in paragraph at lines 1224--1224
-[]\TU/Arial(0)/m/n/10.95 Низок смирившийся с этой судьбой, [] 
+Overfull \hbox (15.32109pt too wide) in paragraph at lines 1224--1224
+[]\TU/PTSans(0)/m/n/10.95 Низок смирившийся с этой судьбой, [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1599,11 +1581,6 @@ LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
 
 Underfull \hbox (badness 10000) in paragraph at lines 1225--1225
   [][][]\TU/Georgia(0)/m/n/9 Фрагмент стихотворения арабского поэта Х века Абу-т-Тайиба аль-
- []
-
-
-Overfull \hbox (6.86307pt too wide) in paragraph at lines 1225--1226
-[]\TU/Arial(0)/m/n/10.95 В жизни бывает такая жизнь, что [][][][] 
  []
 
 
@@ -1745,7 +1722,7 @@ Underfull \hbox (badness 1509) in paragraph at lines 2103--2104
 []\TU/Georgia(0)/m/n/10.95 — Пишущую. Вон ту… — журналистка мотнула головой
  []
 
-[103]
+
 Underfull \hbox (badness 4819) in paragraph at lines 2119--2120
 []\TU/Georgia(0)/m/n/10.95 Результат превзошёл все ожидания: журналистка уста-
  []
@@ -1755,7 +1732,7 @@ Underfull \hbox (badness 3930) in paragraph at lines 2119--2120
 \TU/Georgia(0)/m/n/10.95 вилась на Эппл Блум очень большими и очень круглыми
  []
 
-
+[103]
 Underfull \hbox (badness 2653) in paragraph at lines 2121--2122
 []\TU/Georgia(0)/m/n/10.95 — Девочка, — медленно и с расстановкой проговорила
  []
@@ -1770,7 +1747,10 @@ Underfull \hbox (badness 1521) in paragraph at lines 2203--2204
 \TU/Georgia(0)/m/n/10.95 рассеявшись. Через несколько секунд машинка неторопливо
  []
 
-[107]
+
+Underfull \vbox (badness 1163) has occurred while \output is active []
+
+ [107]
 Underfull \hbox (badness 1270) in paragraph at lines 2221--2222
 \TU/Georgia(0)/m/n/10.95 в нём необычное для себя или других. Хм… Ну, давай рас-
  []
@@ -1780,7 +1760,10 @@ Underfull \hbox (badness 2221) in paragraph at lines 2221--2222
 \TU/Georgia(0)/m/n/10.95 в соревнованиях по спринту, заняла второе место. Фаворит
  []
 
-[108] [109]
+[108]
+Underfull \vbox (badness 1509) has occurred while \output is active []
+
+ [109]
 Underfull \hbox (badness 3635) in paragraph at lines 2267--2268
 \TU/Georgia(0)/m/n/10.95 чины неизвестны. Если это преступление, то им, конечно,
  []
@@ -1875,10 +1858,7 @@ Underfull \hbox (badness 7064) in paragraph at lines 2417--2418
 []\TU/Georgia(0)/m/n/10.95 Правда, эту самую Твайлайт Спаркл обратно
  []
 
-
-Underfull \vbox (badness 3919) has occurred while \output is active []
-
- [117] [118]
+[117] [118]
 Underfull \hbox (badness 2837) in paragraph at lines 2448--2449
 \TU/Georgia(0)/m/n/10.95 Блум ей сразу же страшно возгордилась. Там было краси-
  []
@@ -1901,7 +1881,7 @@ Underfull \hbox (badness 1072) in paragraph at lines 2481--2482
 []\TU/Georgia(0)/m/n/10.95 — Ты при начале-то сама присутствовала. Помнишь тот
  []
 
-[121]
+
 Underfull \hbox (badness 10000) in paragraph at lines 2487--2488
 \TU/Georgia(0)/m/n/10.95 царапая в блокноте: \TU/Georgia(0)/m/it/10.95 «Свити как бы: пикник, насекомые,
  []
@@ -1911,7 +1891,7 @@ Underfull \hbox (badness 1527) in paragraph at lines 2487--2488
 \TU/Georgia(0)/m/it/10.95 сфера, повели учиться, Твайлайт была занята, вместо неё
  []
 
-[122] [123] [124]
+[121] [122] [123] [124]
 Underfull \hbox (badness 1062) in paragraph at lines 2550--2551
 \TU/Georgia(0)/m/n/10.95 же быть, чтоб её с такими связями не приняли! И главное,
  []
@@ -1921,22 +1901,22 @@ Underfull \hbox (badness 1043) in paragraph at lines 2550--2551
 \TU/Georgia(0)/m/n/10.95 идея-то была хорошая, но я ж потом на тех гастролях сама
  []
 
-[125]
+
 Underfull \hbox (badness 1881) in paragraph at lines 2554--2555
 []\TU/Georgia(0)/m/n/10.95 — Чего-о? — Трикси удивлённо вытаращилась на Эппл
  []
 
-[126] [127]
+[125] [126]
 Underfull \hbox (badness 3735) in paragraph at lines 2593--2594
 \TU/Georgia(0)/m/n/10.95 комнату им для занятий выделила, посоветовала Старлайт
  []
 
-[128]
+[127]
 Underfull \hbox (badness 1968) in paragraph at lines 2615--2616
 \TU/Georgia(0)/m/n/10.95 поделилась. Вот, говорят, как раз пришли посоветоваться с
  []
 
-
+[128]
 Underfull \hbox (badness 4582) in paragraph at lines 2617--2618
 []\TU/Georgia(0)/m/n/10.95 — Из вежливости? — проницательно поинтересовалась
  []
@@ -2004,10 +1984,7 @@ Underfull \hbox (badness 2564) in paragraph at lines 2851--2852
 \TU/Georgia(0)/m/n/10.95 сложнее, тут нужно так сформулировать свои слова, чтобы
  []
 
-[140]
-Underfull \vbox (badness 2753) has occurred while \output is active []
-
- [141] [142]
+[140] [141] [142]
 Underfull \hbox (badness 1783) in paragraph at lines 2923--2924
 \TU/Georgia(0)/m/n/10.95 монстр, они его жук-пуком называют и всё время зачем-то
  []
@@ -2132,12 +2109,12 @@ Underfull \hbox (badness 5563) in paragraph at lines 3520--3521
 [170] [171
 
 
-] [172]
+]
 Underfull \hbox (badness 2961) in paragraph at lines 3567--3568
 \TU/Georgia(0)/m/n/10.95 после вчерашнего уже наверняка приняты дополнительные
  []
 
-
+[172]
 Underfull \hbox (badness 1527) in paragraph at lines 3583--3584
 \TU/Georgia(0)/m/n/10.95 с ней возились не зря… я бы даже сказал, яростно искала.
  []
@@ -2222,9 +2199,9 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3802.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3802.
  ) 
 Here is how much of TeX's memory you used:
- 20421 strings out of 494320
- 389823 string characters out of 6164400
- 574261 words of memory out of 5000000
+ 20423 strings out of 494320
+ 389908 string characters out of 6164400
+ 574268 words of memory out of 5000000
  24132 multiletter control sequences out of 15000+600000
  8876 words of font info for 69 fonts, out of 8000000 for 9000
  503 hyphenation exceptions out of 8191
