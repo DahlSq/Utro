@@ -8,6 +8,7 @@
 
 * `Utro.tex` — основной файл, обрабатывать xelatex;
 * `Utro.pdf` — результат трансляции, текущая вёрстка;
-* `morning-cover.png` — обложка.
+* `morning-cover.png` — обложка;
+* `Utro.epub` — электронная книга.
 
 В оформлении обложки использован рисунок [Rachel Miller](https://www.deviantart.com/millerrachel) (с разрешения).
