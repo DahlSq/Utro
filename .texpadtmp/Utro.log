@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  26 APR 2020 23:39
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  27 APR 2020 14:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1266,12 +1266,17 @@ Underfull \hbox (badness 1168) in paragraph at lines 485--486
 \TU/Georgia(0)/m/n/10.95 в ученицы, я тебе писала) ещё съехидничал, что выполнять
  []
 
-
-Underfull \hbox (badness 2111) in paragraph at lines 489--490
-\TU/Georgia(0)/m/n/10.95 туда из Холлоу-Шэйдс говорящим письмом отсылали, пом-
+[25]
+Underfull \hbox (badness 1735) in paragraph at lines 495--496
+\TU/Georgia(0)/m/n/10.95 а принцесса Твайлайт тоже этак глазами: одним смотрит в
  []
 
-[25] [26] [27]
+
+Underfull \hbox (badness 1668) in paragraph at lines 495--496
+\TU/Georgia(0)/m/n/10.95 прислушалась — нет, не кажется. Спайк уже даже кряхтеть
+ []
+
+[26] [27]
 Underfull \hbox (badness 3724) in paragraph at lines 511--512
 \TU/Georgia(0)/m/n/10.95 у параболы корни, а где Фезервейт болтался, там аккурат
  []
@@ -1381,6 +1386,22 @@ Underfull \hbox (badness 2096) in paragraph at lines 781--782
 \TU/Georgia(0)/m/n/10.95 как выразилась бы твоя протеже. На этот счёт можешь не
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 785.
+LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
+(Font)              scaled to size 7.16174pt on input line 785.
+LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
+(Font)              scaled to size 8.05696pt on input line 785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 785.
+LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
+(Font)              scaled to size 5.3713pt on input line 785.
 
 Underfull \hbox (badness 2512) in paragraph at lines 787--788
 []\TU/Georgia(0)/m/n/10.95 Не последнюю роль в этой усталости сыграли те, кого
@@ -1562,22 +1583,6 @@ Overfull \hbox (15.32109pt too wide) in paragraph at lines 1224--1224
 []\TU/PTSans(0)/m/n/10.95 Низок смирившийся с этой судьбой, [] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1225.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 1225.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 1225.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 7.16174pt on input line 1225.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 8.05696pt on input line 1225.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 1225.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1225.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 5.3713pt on input line 1225.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1225--1225
   [][][]\TU/Georgia(0)/m/n/9 Фрагмент стихотворения арабского поэта Х века Абу-т-Тайиба аль-
@@ -2199,10 +2204,10 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3802.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3802.
  ) 
 Here is how much of TeX's memory you used:
- 20423 strings out of 494320
- 389908 string characters out of 6164400
+ 20424 strings out of 494320
+ 389923 string characters out of 6164400
  574268 words of memory out of 5000000
- 24132 multiletter control sequences out of 15000+600000
+ 24133 multiletter control sequences out of 15000+600000
  8876 words of font info for 69 fonts, out of 8000000 for 9000
  503 hyphenation exceptions out of 8191
  50i,8n,118p,10400b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
