@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  28 APR 2020 18:37
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  28 APR 2020 19:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2161,50 +2161,59 @@ Underfull \hbox (badness 3503) in paragraph at lines 3717--3718
 
 
 ]
+LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
+(Font)              scaled to size 22.27303pt on input line 3735.
+ [181
+
+
+] [182
+
+
+]
 \ado=\skip63
- [181] [182
+ [183] [184
 
 
-] [183]
-Underfull \hbox (badness 7116) in paragraph at lines 3784--3785
+] [185]
+Underfull \hbox (badness 7116) in paragraph at lines 3797--3798
 \TU/Georgia(0)/m/n/10.95 ствует поколение его основателей… весёлое начало новой
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 3786--3787
+Underfull \hbox (badness 1082) in paragraph at lines 3799--3800
 \TU/Georgia(0)/m/n/10.95 из папки личного дела бумажку, — то в этой связи должен
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 3786--3787
+Underfull \hbox (badness 1097) in paragraph at lines 3799--3800
 \TU/Georgia(0)/m/n/10.95 сказать, что означенная Спаркл пыталась через канцелярию
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 3792--3793
+Underfull \hbox (badness 5607) in paragraph at lines 3805--3806
 []\TU/Georgia(0)/m/n/10.95 — Но, ваше высочество, — осторожно заметил он, —
  []
 
 
-Underfull \hbox (badness 2073) in paragraph at lines 3792--3793
+Underfull \hbox (badness 2073) in paragraph at lines 3805--3806
 \TU/Georgia(0)/m/n/10.95 там же нет никаких конкретных предложений. Это именно
  []
 
-[184]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3802.
- [185]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3802.
+[186]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3815.
+ [187]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3815.
  (/Users/dahl/Documents/GitHub/Utro/.texpadtmp/Utro.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3802.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3802.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3815.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3815.
  ) 
 Here is how much of TeX's memory you used:
- 20424 strings out of 494320
- 389923 string characters out of 6164400
+ 20426 strings out of 494320
+ 390000 string characters out of 6164400
  574268 words of memory out of 5000000
- 24133 multiletter control sequences out of 15000+600000
- 8876 words of font info for 69 fonts, out of 8000000 for 9000
+ 24134 multiletter control sequences out of 15000+600000
+ 8884 words of font info for 70 fonts, out of 8000000 for 9000
  503 hyphenation exceptions out of 8191
  50i,8n,118p,10400b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/dahl/Documents/GitHub/Utro/.texpadtmp/Utro.pdf (189 pages).
+Output written on /Users/dahl/Documents/GitHub/Utro/.texpadtmp/Utro.pdf (191 pages).
