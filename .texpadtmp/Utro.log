@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  28 APR 2020 19:27
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  28 APR 2020 22:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1728,21 +1728,11 @@ Underfull \hbox (badness 1509) in paragraph at lines 2103--2104
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 2119--2120
-[]\TU/Georgia(0)/m/n/10.95 Результат превзошёл все ожидания: журналистка уста-
- []
-
-
-Underfull \hbox (badness 3930) in paragraph at lines 2119--2120
-\TU/Georgia(0)/m/n/10.95 вилась на Эппл Блум очень большими и очень круглыми
- []
-
-[103]
 Underfull \hbox (badness 2653) in paragraph at lines 2121--2122
 []\TU/Georgia(0)/m/n/10.95 — Девочка, — медленно и с расстановкой проговорила
  []
 
-[104]
+[103] [104]
 Underfull \hbox (badness 3323) in paragraph at lines 2153--2154
 []\TU/Georgia(0)/m/n/10.95 — Неважно. В тебе есть больше, чем кажется на пер-
  []
@@ -1752,10 +1742,7 @@ Underfull \hbox (badness 1521) in paragraph at lines 2203--2204
 \TU/Georgia(0)/m/n/10.95 рассеявшись. Через несколько секунд машинка неторопливо
  []
 
-
-Underfull \vbox (badness 1163) has occurred while \output is active []
-
- [107]
+[107]
 Underfull \hbox (badness 1270) in paragraph at lines 2221--2222
 \TU/Georgia(0)/m/n/10.95 в нём необычное для себя или других. Хм… Ну, давай рас-
  []
@@ -1765,10 +1752,7 @@ Underfull \hbox (badness 2221) in paragraph at lines 2221--2222
 \TU/Georgia(0)/m/n/10.95 в соревнованиях по спринту, заняла второе место. Фаворит
  []
 
-[108]
-Underfull \vbox (badness 1509) has occurred while \output is active []
-
- [109]
+[108] [109]
 Underfull \hbox (badness 3635) in paragraph at lines 2267--2268
 \TU/Georgia(0)/m/n/10.95 чины неизвестны. Если это преступление, то им, конечно,
  []
@@ -1823,7 +1807,10 @@ Underfull \hbox (badness 3354) in paragraph at lines 2339--2340
 []\TU/Georgia(0)/m/n/10.95 — Так. Старлайт Глиммер и Трикси хорошо известны,
  []
 
-[113]
+
+Underfull \vbox (badness 2005) has occurred while \output is active []
+
+ [113]
 Underfull \hbox (badness 1924) in paragraph at lines 2363--2364
 \TU/Georgia(0)/m/n/10.95 висит, — усмехнулась журналистка. — Если убедишь сестру
  []
@@ -1858,7 +1845,12 @@ Underfull \hbox (badness 2368) in paragraph at lines 2409--2410
 \TU/Georgia(0)/m/n/10.95 Найтмэр Мун и накатала письмо принцессе. Но
  []
 
-[116] [117] [118]
+[116]
+Underfull \hbox (badness 7064) in paragraph at lines 2417--2418
+[]\TU/Georgia(0)/m/n/10.95 Правда, эту самую Твайлайт Спаркл обратно
+ []
+
+[117] [118]
 Underfull \hbox (badness 2837) in paragraph at lines 2448--2449
 \TU/Georgia(0)/m/n/10.95 Блум ей сразу же страшно возгордилась. Там было краси-
  []
@@ -2208,10 +2200,10 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3815.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3815.
  ) 
 Here is how much of TeX's memory you used:
- 20426 strings out of 494320
- 390000 string characters out of 6164400
- 574268 words of memory out of 5000000
- 24134 multiletter control sequences out of 15000+600000
+ 20427 strings out of 494320
+ 390007 string characters out of 6164400
+ 575268 words of memory out of 5000000
+ 24135 multiletter control sequences out of 15000+600000
  8884 words of font info for 70 fonts, out of 8000000 for 9000
  503 hyphenation exceptions out of 8191
  50i,8n,118p,10400b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
