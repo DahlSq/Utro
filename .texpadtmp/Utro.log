@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  28 APR 2020 22:49
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.27)  29 APR 2020 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1699,12 +1699,7 @@ Underfull \hbox (badness 1292) in paragraph at lines 1619--1620
 [83] [84] [85] [86
 
 
-] [87]
-Underfull \hbox (badness 5245) in paragraph at lines 1688--1689
-[]\TU/Georgia(0)/m/n/10.95 — На всякий случай, — перевёл доставивший письмо
- []
-
-[88] [89] [90] [91] [92] [93] [94] [95]
+] [87] [88] [89] [90] [91] [92] [93] [94] [95]
 Underfull \hbox (badness 1371) in paragraph at lines 1904--1905
 []\TU/Georgia(0)/m/n/10.95 — А если покажут чейнджлинга и скажут то же самое?
  []
@@ -1723,11 +1718,6 @@ Underfull \hbox (badness 1953) in paragraph at lines 2000--2001
 
 
 ] [102]
-Underfull \hbox (badness 1509) in paragraph at lines 2103--2104
-[]\TU/Georgia(0)/m/n/10.95 — Пишущую. Вон ту… — журналистка мотнула головой
- []
-
-
 Underfull \hbox (badness 2653) in paragraph at lines 2121--2122
 []\TU/Georgia(0)/m/n/10.95 — Девочка, — медленно и с расстановкой проговорила
  []
@@ -1971,7 +1961,30 @@ Underfull \hbox (badness 1221) in paragraph at lines 2811--2812
 \TU/Georgia(0)/m/n/10.95 материалов совершенно невозможно понять, \TU/Georgia(0)/m/it/10.95 почему\TU/Georgia(0)/m/n/10.95 ! А ведь
  []
 
-[139]
+
+Underfull \hbox (badness 1122) in paragraph at lines 2811--2812
+\TU/Georgia(0)/m/n/10.95 именно это является нашей конечной целью… тебе сказали,
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 2815--2816
+\TU/Georgia(0)/m/n/10.95 из них твои расспросы не доставили особого удовольствия.
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 2815--2816
+\TU/Georgia(0)/m/n/10.95 рассказа Эпплджек. И это полностью согласуется с тем, что
+ []
+
+
+Underfull \vbox (badness 2753) has occurred while \output is active []
+
+ [139]
+Underfull \hbox (badness 3713) in paragraph at lines 2843--2844
+\TU/Georgia(0)/m/n/10.95 не сказав при этом ни слова неправды. Первый довольно
+ []
+
+
 Underfull \hbox (badness 2564) in paragraph at lines 2851--2852
 \TU/Georgia(0)/m/n/10.95 сложнее, тут нужно так сформулировать свои слова, чтобы
  []
@@ -2079,10 +2092,7 @@ Underfull \hbox (badness 3068) in paragraph at lines 3281--3282
 \TU/Georgia(0)/m/n/10.95 ощущения от чрезмерной задержки на нынешней стадии…
  []
 
-[159] [160] [161] [162]
-Underfull \vbox (badness 1509) has occurred while \output is active []
-
- [163] [164] [165] [166
+[159] [160] [161] [162] [163] [164] [165] [166
 
 
 ] [167]
